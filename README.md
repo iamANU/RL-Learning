@@ -1,4 +1,4 @@
-# RL-assignments
+# RL Learning Path
 ## RL Algo Implimentations 
 Here I will list the algorithm implimentations.
 
