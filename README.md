@@ -1,6 +1,6 @@
 # RL Learning Path
 ## RL Algo Implimentations 
-Here I will list the algorithm implimentations.
+Here I will list the algorithm I implimented.
 
 ## READINGS 
 Here I will list the thing I am learning or have learned to implement the algorithms.
